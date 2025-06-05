@@ -1,0 +1,39 @@
+<RCC>
+    <qresource prefix="/imagenes">
+        <file>imagenes/Fragmentum.png</file>
+        <file>imagenes/FragmentumMap.png</file>
+        <file>imagenes/ZoneA.png</file>
+        <file>imagenes/ZoneB.png</file>
+        <file>imagenes/ZoneC.png</file>
+        <file>imagenes/ZoneD.png</file>
+        <file>imagenes/ZoneE.png</file>
+        <file>imagenes/ZoneF.png</file>
+        <file>imagenes/ZoneG.png</file>
+        <file>imagenes/NoonPixel.png</file>
+    </qresource>
+    <qresource prefix="/kael">
+        <file>KaelSprites/4_enemies_1_walk_000.png</file>
+        <file>KaelSprites/4_enemies_1_walk_001.png</file>
+        <file>KaelSprites/4_enemies_1_walk_002.png</file>
+        <file>KaelSprites/4_enemies_1_walk_003.png</file>
+        <file>KaelSprites/4_enemies_1_walk_004.png</file>
+        <file>KaelSprites/4_enemies_1_walk_005.png</file>
+        <file>KaelSprites/4_enemies_1_walk_006.png</file>
+        <file>KaelSprites/4_enemies_1_walk_007.png</file>
+        <file>KaelSprites/4_enemies_1_walk_008.png</file>
+        <file>KaelSprites/4_enemies_1_walk_009.png</file>
+        <file>KaelSprites/4_enemies_1_walk_010.png</file>
+        <file>KaelSprites/4_enemies_1_walk_011.png</file>
+        <file>KaelSprites/4_enemies_1_walk_012.png</file>
+        <file>KaelSprites/4_enemies_1_walk_013.png</file>
+        <file>KaelSprites/4_enemies_1_walk_014.png</file>
+        <file>KaelSprites/4_enemies_1_walk_015.png</file>
+        <file>KaelSprites/4_enemies_1_walk_016.png</file>
+        <file>KaelSprites/4_enemies_1_walk_017.png</file>
+        <file>KaelSprites/4_enemies_1_walk_018.png</file>
+        <file>KaelSprites/4_enemies_1_walk_019.png</file>
+    </qresource>
+    <qresource prefix="/grulk"/>
+    <qresource prefix="/alakran"/>
+    <qresource prefix="/kiki"/>
+</RCC>

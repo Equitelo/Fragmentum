@@ -1,0 +1,23 @@
+# ninja log v6
+14	1015	7707832612513335	build.ninja	b6b3e1c10311babb
+27	1894	7708076586437467	C:/Documents/EstructuraDeDatos/OpenWorld_Team3/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/OpenWorld_Team3_autogen/timestamp	8548291c11d4628c
+1903	8470	7708076588311849	CMakeFiles/OpenWorld_Team3.dir/main.cpp.obj	53823e52d713f187
+27	1894	7708076586437467	OpenWorld_Team3_autogen/timestamp	8548291c11d4628c
+27	1894	7708076586437467	OpenWorld_Team3_autogen/mocs_compilation.cpp	8548291c11d4628c
+729	2031	7707832633870830	C:/Documents/EstructuraDeDatos/OpenWorld_Team3/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/OpenWorld_Team3_autogen/EWIEGA46WW/qrc_imagenes.cpp	46ff6d3c440a82b7
+27	1894	7708076586437467	C:/Documents/EstructuraDeDatos/OpenWorld_Team3/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/OpenWorld_Team3_autogen/mocs_compilation.cpp	8548291c11d4628c
+1908	8472	7708076588366808	CMakeFiles/OpenWorld_Team3.dir/mainmenu.cpp.obj	343b52fdbd7747f2
+729	2031	7707832633870830	OpenWorld_Team3_autogen/EWIEGA46WW/qrc_imagenes.cpp	46ff6d3c440a82b7
+1897	8757	7708076588258015	CMakeFiles/OpenWorld_Team3.dir/OpenWorld_Team3_autogen/mocs_compilation.cpp.obj	8cbb5aa83ff9ef79
+2043	53155	7707832634317187	CMakeFiles/OpenWorld_Team3.dir/OpenWorld_Team3_autogen/EWIEGA46WW/qrc_imagenes.cpp.obj	3f6af25bca7cc25f
+9221	10159	7708076661501230	OpenWorld_Team3.exe	422199e44b420c04
+1913	9221	7708076588416270	CMakeFiles/OpenWorld_Team3.dir/zonea.cpp.obj	80f305debede2c76
+44	1274	7708081984869385	OpenWorld_Team3_autogen/timestamp	8548291c11d4628c
+44	1274	7708081984869385	OpenWorld_Team3_autogen/mocs_compilation.cpp	8548291c11d4628c
+44	1274	7708081984869385	C:/Documents/EstructuraDeDatos/OpenWorld_Team3/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/OpenWorld_Team3_autogen/timestamp	8548291c11d4628c
+44	1274	7708081984869385	C:/Documents/EstructuraDeDatos/OpenWorld_Team3/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/OpenWorld_Team3_autogen/mocs_compilation.cpp	8548291c11d4628c
+1281	7628	7708081986070589	CMakeFiles/OpenWorld_Team3.dir/main.cpp.obj	53823e52d713f187
+1287	7653	7708081986120453	CMakeFiles/OpenWorld_Team3.dir/mainmenu.cpp.obj	343b52fdbd7747f2
+1276	7807	7708081986020495	CMakeFiles/OpenWorld_Team3.dir/OpenWorld_Team3_autogen/mocs_compilation.cpp.obj	8cbb5aa83ff9ef79
+1292	8939	7708081986170319	CMakeFiles/OpenWorld_Team3.dir/zonea.cpp.obj	80f305debede2c76
+8939	9925	7708082062653656	OpenWorld_Team3.exe	422199e44b420c04
